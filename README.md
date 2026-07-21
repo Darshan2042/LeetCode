@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Darshan2042/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Darshan2042/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Darshan2042/LeetCode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Darshan2042/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0733-flood-fill](https://github.com/Darshan2042/LeetCode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Darshan2042/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Darshan2042/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
