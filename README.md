@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Darshan2042/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Darshan2042/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1143-longest-common-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Darshan2042/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
 |  |
