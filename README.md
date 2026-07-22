@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Darshan2042/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Darshan2042/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan2042/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Darshan2042/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0733-flood-fill](https://github.com/Darshan2042/LeetCode/tree/master/0733-flood-fill) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Darshan2042/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan2042/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Darshan2042/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Darshan2042/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Darshan2042/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
