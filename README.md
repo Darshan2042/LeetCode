@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Darshan2042/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Darshan2042/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/Darshan2042/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Darshan2042/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Darshan2042/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan2042/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
