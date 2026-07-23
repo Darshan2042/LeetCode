@@ -1,6 +1,9 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int ans = nums[0];
+        if(nums.length == 1){
+            return nums[0];
+        }
+        int pro = 0;
         int pre = 1;
         int suff = 1;
         for(int i=0 ; i<nums.length ; i++){
@@ -12,8 +15,9 @@ class Solution {
             }
             pre *= nums[i];
             suff *= nums[nums.length-1-i];
-            ans = Math.max(ans,Math.max(pre,suff));
+            int ans = Math.max(pre,suff);
+            pro = Math.max(ans,pro);
         }
-        return ans;
+        return pro;
     }
 }
