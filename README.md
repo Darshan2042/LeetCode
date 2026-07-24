@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Darshan2042/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Darshan2042/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Darshan2042/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darshan2042/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Darshan2042/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan2042/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
