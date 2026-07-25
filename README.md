@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Darshan2042/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Darshan2042/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/Darshan2042/LeetCode/tree/master/0887-super-egg-drop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Darshan2042/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/Darshan2042/LeetCode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/Darshan2042/LeetCode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Array
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Darshan2042/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Darshan2042/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshan2042/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0887-super-egg-drop](https://github.com/Darshan2042/LeetCode/tree/master/0887-super-egg-drop) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
