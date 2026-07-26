@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Darshan2042/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan2042/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Darshan2042/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Darshan2042/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Darshan2042/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Darshan2042/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Darshan2042/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Darshan2042/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Darshan2042/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Darshan2042/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
