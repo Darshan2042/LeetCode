@@ -1,13 +1,19 @@
 class Solution {
     public int maxProduct(int n) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        while(n != 0){
+        int first = 0;
+        int second = 0;
+        while( n != 0){
             int digit = n % 10;
-            arr.add(digit);
+
+            if(digit >= first){
+                second = first;
+                first = digit;
+            }
+            else if(digit > second && digit != first){
+                second = digit;
+            }
             n /= 10;
         }
-        Collections.sort(arr);
-        int len = arr.size();
-        return arr.get(len-1) * arr.get(len-2);
+        return first * second;
     }
 }
