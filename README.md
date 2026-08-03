@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Darshan2042/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan2042/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Darshan2042/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Darshan2042/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Darshan2042/LeetCode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Darshan2042/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Darshan2042/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Darshan2042/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Darshan2042/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan2042/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Darshan2042/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshan2042/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Data Stream
@@ -373,9 +377,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Darshan2042/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
