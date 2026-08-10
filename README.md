@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Darshan2042/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darshan2042/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Darshan2042/LeetCode/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Darshan2042/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Darshan2042/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Darshan2042/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Darshan2042/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan2042/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Darshan2042/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Darshan2042/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Darshan2042/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Darshan2042/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Darshan2042/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
 |  |
