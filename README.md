@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darshan2042/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darshan2042/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Darshan2042/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Darshan2042/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Darshan2042/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/Darshan2042/LeetCode/tree/master/0645-set-mismatch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Darshan2042/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Darshan2042/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
 | ------- |
