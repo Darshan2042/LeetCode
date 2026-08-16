@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Darshan2042/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Darshan2042/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan2042/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Darshan2042/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Darshan2042/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Darshan2042/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Darshan2042/LeetCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Darshan2042/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Darshan2042/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Darshan2042/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan2042/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Darshan2042/LeetCode/tree/master/0645-set-mismatch) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Darshan2042/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Darshan2042/LeetCode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshan2042/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Darshan2042/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
