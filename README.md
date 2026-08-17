@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Darshan2042/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Darshan2042/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Darshan2042/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Darshan2042/LeetCode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/Darshan2042/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Darshan2042/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Darshan2042/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Darshan2042/LeetCode/tree/master/1563-stone-game-v) |
 ## Array
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Darshan2042/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Darshan2042/LeetCode/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Darshan2042/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Darshan2042/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Darshan2042/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Darshan2042/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Darshan2042/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Darshan2042/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Darshan2042/LeetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
