@@ -1,12 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int xor = 0;
-        for(int i=0;i<=nums.length; i++){
-            xor ^= i;
-        }
+        ArrayList<Integer> arr = new ArrayList<>();
+        int largest = 0;
         for(int num : nums){
-            xor ^= num;
+            arr.add(num);
+            if(num > largest){
+                largest = num;
+            }
         }
-        return xor;
+
+        for(int i=0; i<=largest+1; i++){
+            if(!arr.contains(i)){
+                return i;
+            }
+        }
+        return -1;
     }
 }
