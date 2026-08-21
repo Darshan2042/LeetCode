@@ -4,12 +4,11 @@ class Solution {
         int max = 0;
         for(int i=0; i<nums.length; i++){
             if(nums[i] == 1){
-                count++;
-            }
-            else{
+                count ++;
+            }else{
                 count = 0;
             }
-            max = Math.max(count,max);
+            max = Math.max(count , max);
         }
         return max;
     }
