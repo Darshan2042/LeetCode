@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Darshan2042/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Darshan2042/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Darshan2042/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Darshan2042/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Darshan2042/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Darshan2042/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darshan2042/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Darshan2042/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Darshan2042/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Darshan2042/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Darshan2042/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -575,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darshan2042/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Darshan2042/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
