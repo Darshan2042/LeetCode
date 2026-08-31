@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Darshan2042/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Darshan2042/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Darshan2042/LeetCode/tree/master/1140-stone-game-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Darshan2042/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/Darshan2042/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Darshan2042/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Darshan2042/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Darshan2042/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Darshan2042/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Darshan2042/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Darshan2042/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
