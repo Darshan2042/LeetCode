@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Darshan2042/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Darshan2042/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darshan2042/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Darshan2042/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Darshan2042/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Darshan2042/LeetCode/tree/master/3731-find-missing-elements) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Darshan2042/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Darshan2042/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/Darshan2042/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darshan2042/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Darshan2042/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darshan2042/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Darshan2042/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darshan2042/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Darshan2042/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Darshan2042/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Darshan2042/LeetCode/tree/master/3731-find-missing-elements) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Darshan2042/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshan2042/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Darshan2042/LeetCode/tree/master/0733-flood-fill) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darshan2042/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Darshan2042/LeetCode/tree/master/0645-set-mismatch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Darshan2042/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darshan2042/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Darshan2042/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Darshan2042/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
