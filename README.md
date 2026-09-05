@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Darshan2042/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darshan2042/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darshan2042/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Darshan2042/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Darshan2042/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darshan2042/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darshan2042/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Darshan2042/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Darshan2042/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Darshan2042/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darshan2042/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
