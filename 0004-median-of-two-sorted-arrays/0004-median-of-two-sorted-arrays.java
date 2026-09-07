@@ -1,37 +1,39 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        int first = 0;
-        int second = 0;
-        while(first < nums1.length && second < nums2.length){
-            if(nums1[first] < nums2[second]){
-                ans.add(nums1[first]);
-                first++;
+        List<Integer> list = new ArrayList<>();
+        int n = nums1.length;
+        int m = nums2.length;
+        int i = 0;
+        int j = 0;
+        while(i < n && j < m){
+            if(nums1[i] < nums2[j]){
+                list.add(nums1[i]);
+                i++;
             }
             else{
-                ans.add(nums2[second]);
-                second++;
+                list.add(nums2[j]);
+                j++;
             }
         }
-        while(first < nums1.length){
-            ans.add(nums1[first]);
-            first++;
+        while(i < n){
+            list.add(nums1[i]);
+            i++;
         }
 
-        while(second < nums2.length){
-            ans.add(nums2[second]);
-            second++;
+        while(j < m){
+            list.add(nums2[j]);
+            j++;
         }
 
-        int size = ans.size();
+        int size = list.size();
         if(size % 2 == 0){
-            int mid1 = size/2-1;
-            int mid2 = size/2;
-            double res = (ans.get(mid1) + ans.get(mid2))/2.0;
-            return res;
-        }else{
-            int mid = size/2;
-            return ans.get(mid);
+            int mid1 = size / 2 -1;
+            int mid2 = size / 2;
+            return (list.get(mid1) + list.get(mid2)) / 2.0;
+        }
+        else{
+            int mid = size /2;
+            return list.get(mid);
         }
     }
 }
