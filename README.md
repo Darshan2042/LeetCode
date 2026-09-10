@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshan2042/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darshan2042/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Darshan2042/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Darshan2042/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darshan2042/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Darshan2042/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshan2042/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Darshan2042/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
