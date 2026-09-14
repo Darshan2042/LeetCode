@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Darshan2042/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Darshan2042/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan2042/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Darshan2042/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Darshan2042/LeetCode/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Darshan2042/LeetCode/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/Darshan2042/LeetCode/tree/master/1025-divisor-game) |
@@ -702,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Darshan2042/LeetCode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Darshan2042/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
