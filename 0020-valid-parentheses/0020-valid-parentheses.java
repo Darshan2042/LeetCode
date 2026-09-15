@@ -4,8 +4,7 @@ class Solution {
             return false;
         }
         Stack<Character> stack = new Stack<>();
-        for(int i=0 ; i<s.length() ; i++){
-            char ch = s.charAt(i);
+        for(char ch : s.toCharArray()){
             if(ch == '(' || ch == '[' || ch == '{'){
                 stack.push(ch);
             }
@@ -14,9 +13,11 @@ class Solution {
                     return false;
                 }
                 char top = stack.pop();
-                if((ch == ')' && top != '(') || (ch == ']' && top != '[') || (ch == '}' && top != '{')){
-                    return false;
-                }
+                if((ch == ')' && top != '(') ||
+                        (ch == ']' && top != '[') ||
+                        (ch == '}' && top != '{')){
+                            return false;
+                    }
             }
         }
         return stack.isEmpty();
