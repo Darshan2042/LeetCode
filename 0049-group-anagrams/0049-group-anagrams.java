@@ -14,6 +14,12 @@ class Solution {
                 map.put(sorted,list);
             }
         }
-        return new ArrayList<>(map.values());
+
+        List<List<String>> ans = new ArrayList<>();
+        for(String key : map.keySet()){
+            List<String> curr = map.get(key);
+            ans.add(curr);
+        }
+        return ans;
     }
 }
