@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Darshan2042/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Darshan2042/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Darshan2042/LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Darshan2042/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Darshan2042/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Darshan2042/LeetCode/tree/master/0242-valid-anagram) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Darshan2042/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Darshan2042/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Darshan2042/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Darshan2042/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Darshan2042/LeetCode/tree/master/0290-word-pattern) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Darshan2042/LeetCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Darshan2042/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Darshan2042/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Darshan2042/LeetCode/tree/master/0389-find-the-difference) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Darshan2042/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darshan2042/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Darshan2042/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -766,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -798,4 +804,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Darshan2042/LeetCode/tree/master/0148-sort-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Darshan2042/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
