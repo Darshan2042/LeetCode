@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darshan2042/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Darshan2042/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Darshan2042/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darshan2042/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darshan2042/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Darshan2042/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darshan2042/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Darshan2042/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Darshan2042/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Darshan2042/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Darshan2042/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Darshan2042/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Monotonic Stack
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshan2042/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Darshan2042/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Data Stream
 |  |
 | ------- |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Darshan2042/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Darshan2042/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Darshan2042/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Darshan2042/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Darshan2042/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
