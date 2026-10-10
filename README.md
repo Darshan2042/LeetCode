@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Darshan2042/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Darshan2042/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darshan2042/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darshan2042/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Darshan2042/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2784-check-if-array-is-good](https://github.com/Darshan2042/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Darshan2042/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Darshan2042/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Darshan2042/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Darshan2042/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Darshan2042/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Darshan2042/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Darshan2042/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
