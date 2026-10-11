@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Darshan2042/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Darshan2042/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Darshan2042/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Darshan2042/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Darshan2042/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/Darshan2042/LeetCode/tree/master/1872-stone-game-viii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Darshan2042/LeetCode/tree/master/2029-stone-game-ix) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Darshan2042/LeetCode/tree/master/0056-merge-intervals) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String Matching
 |  |
 | ------- |
