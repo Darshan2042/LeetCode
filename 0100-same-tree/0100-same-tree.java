@@ -15,16 +15,22 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p == null && q == null){
-            return true;
-        }
-        if(p == null || q == null){
-            return false;
-        }
-        if(p.val != q.val){
-            return false;
+        List<Integer> list1 = new ArrayList<>();
+        List<Integer> list2 = new ArrayList<>();
+        
+        preorder(p,list1);
+        preorder(q,list2);
+        return list1.equals(list2);
+    }
+
+    private void preorder(TreeNode root, List<Integer> list){
+        if(root == null){
+            list.add(null);
+            return;
         }
 
-        return isSameTree(p.left, q.left) && isSameTree(p.right , q.right);
+        list.add(root.val);
+        preorder(root.left,list);
+        preorder(root.right,list);
     }
 }
