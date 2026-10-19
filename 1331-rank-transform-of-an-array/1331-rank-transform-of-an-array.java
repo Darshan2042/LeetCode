@@ -5,25 +5,19 @@ class Solution {
             temp[i] = arr[i];
         }
         Arrays.sort(temp);
-        Set<Integer> list = new LinkedHashSet<>();
-        for(int num : temp){
-            list.add(num);
-        }
-
-        int[] u = new int[list.size()];
-        int k = 0;
-        for(int num : list){
-            u[k++] = num;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int rank = 1;
+        for(int i=0; i<temp.length; i++){
+            if(i > 0 && temp[i] == temp[i-1]){
+                continue;
+            }
+            map.put(temp[i] , rank);
+            rank++;
         }
         int[] res = new int[arr.length];
         for(int i=0; i<arr.length; i++){
-            for(int j=0; j<u.length; j++){
-                if(arr[i] == u[j]){
-                    res[i] = j+1;
-                    break;
-                }
-            }
+            res[i] = map.get(arr[i]);
         }
-        return res; 
+        return res;
     }
 }
