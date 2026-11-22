@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Darshan2042/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Darshan2042/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Darshan2042/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Darshan2042/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Darshan2042/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darshan2042/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Darshan2042/LeetCode/tree/master/1927-sum-game) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Darshan2042/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Darshan2042/LeetCode/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Darshan2042/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Darshan2042/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Darshan2042/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Darshan2042/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Darshan2042/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Darshan2042/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/Darshan2042/LeetCode/tree/master/2029-stone-game-ix) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Darshan2042/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darshan2042/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Darshan2042/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Darshan2042/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
