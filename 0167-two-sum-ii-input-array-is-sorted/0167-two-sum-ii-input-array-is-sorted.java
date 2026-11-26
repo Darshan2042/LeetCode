@@ -1,20 +1,23 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int[] arr = new int[2];
-        int left = 0;
-        int right = numbers.length-1;
-        int index = 0;
-        while(left < right){
-            if(numbers[left] + numbers[right] == target){
-                return new int[] {left+1 , right+1};
+        int[] ans = new int[2];
+        int low = 0;
+        int high = numbers.length-1;
+        while(low < high){
+            int sum = numbers[low] + numbers[high];
+            if(sum == target){
+                ans[0] = low+1;
+                ans[1] = high+1;
+                low++;
+                high--;
             }
-            else if(numbers[left] + numbers[right] < target){
-                left++;
+            else if(sum < target){
+                low++;
             }
             else{
-                right--;
+                high--;
             }
         }
-        return new int[] {};
+        return ans;
     }
 }
