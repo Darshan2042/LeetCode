@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Darshan2042/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Darshan2042/LeetCode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darshan2042/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Darshan2042/LeetCode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Darshan2042/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Darshan2042/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Darshan2042/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darshan2042/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Darshan2042/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Darshan2042/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Darshan2042/LeetCode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Darshan2042/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Darshan2042/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Darshan2042/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Darshan2042/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Darshan2042/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Darshan2042/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Darshan2042/LeetCode/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Stack
 |  |
 | ------- |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Darshan2042/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Darshan2042/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Darshan2042/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Darshan2042/LeetCode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2390-removing-stars-from-a-string](https://github.com/Darshan2042/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Darshan2042/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Darshan2042/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Darshan2042/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Darshan2042/LeetCode/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -832,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Darshan2042/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Darshan2042/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Darshan2042/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/Darshan2042/LeetCode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2390-removing-stars-from-a-string](https://github.com/Darshan2042/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Darshan2042/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Darshan2042/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
